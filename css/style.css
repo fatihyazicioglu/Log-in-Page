@@ -76,9 +76,8 @@
     text-align: center;
 }
 .information input{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+    
+    outline: red dashed;
 }
 
 .remember input{
